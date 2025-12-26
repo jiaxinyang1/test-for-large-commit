@@ -1,5 +1,5 @@
 const (
 
-MAX =15
-MAX2 =16
+MAX =13
+MAX2 =10
 )
